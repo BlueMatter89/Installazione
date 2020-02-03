@@ -1,0 +1,2 @@
+# Installazione
+installazione interattiva + sensore 
